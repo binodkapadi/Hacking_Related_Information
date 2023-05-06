@@ -1,0 +1,54 @@
+NOTE : If you are using Mobile Phone (Termux) you can use pkg instead of apt in these folowing commands.
+NOTE : if you are not a root user you have to use sudo infront of these commands for installing otherwise if you are root user you can use same commands as given.
+
+TBOMB ATTACK ==>>
+
+steps for installing ::
+
+apt install git
+apt upgrade
+apt update
+apt install git
+apt install python 3.0
+apt install openssl
+pip install -upgrade pip
+git clone https://github.com/TheSpeedX/TBomb.git
+
+For running TBOMB ATTACK : 
+
+cd TBomb
+chmod +x TBomb.sh
+./TBomb.sh
+
+OR instead of using last two commands from running(TBOMB ATTACK) you can directly use this command:
+
+bash TBomb.sh
+
+==============================================
+NOTE :: For exit(ctrl+z)
+
+PBOMB ATTACK ==>
+
+steps for installing ::
+
+apt install git
+apt upgrade
+apt update
+apt install git
+apt install python 3.0
+apt install openssl
+pip install -upgrade pip
+git clone https://github.com/HACK3RY2S/PBomb.sh
+
+For running PBOMB ATTACK : 
+
+cd PBomb
+chmod +x PBomb.sh
+./PBomb.sh
+
+OR instead of using last two commands from running (PBOMB ATTACK) you can directly use this command:
+
+bash PBomb.sh
+
+==============================================
+NOTE :: For exit(ctrl+z)
