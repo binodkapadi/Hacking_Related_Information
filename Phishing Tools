@@ -1,0 +1,27 @@
+NOTE :: For gaining root access type sudo su after that type a password that you have put while loging as normal user in Kalilinux.
+
+========== SOCIALPHISH ===========
+
+STEPS FOR INSTALLING AND RUNNING ==>>
+
+git clone https://github.com/xHak9x/SocialPhish.git
+cd Socialphish
+chmod +x socialphish.sh
+./socialphish.sh
+
+OR instead of using last two commands from running (SOCIALPHISH) you can directly use this command:
+
+bash socialphish.sh
+
+
+=========== ZPHISHER =============
+
+STEPS FOR INSTALLING AND RUNNING ==>>
+
+git clone https://github.com/htr-tech/zphisher.git
+cd zphisher
+bash zpisher.sh
+
+====================================
+               THANK YOU
+                GOOD LUCK !!
