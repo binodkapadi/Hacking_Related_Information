@@ -1,0 +1,27 @@
+KaliFixer is a bash script created to help newbies in Kali Linux. We have all been there that dreaded moment
+when we try to update Kali Linux using apt-get only to be presented with update errors. Don’t worry KaliFixer is on hand !.
+
+This script will first find the version of Kali using kernel headers of your Kali install once the version of Kali Linux
+is found it will update sources.list with the correct repositories for Kali to function correctly. Enjoy if this script 
+was useful to use consider sharing it with friends & on social media.
+
+REQUIREMENTS::
+Kali Linux
+Bash shell
+git (optional)
+
+INSTALLING FROM THE COMMAND LINE ==>
+
+Open a terminal and enter the following commands::
+
+cd Downloads
+git clone https://github.com/techwebspot/KaliFixer.git
+cd KaliFixer
+chmod +x KaliFixer.sh
+./KaliFixer.sh
+
+Instead of last two commands you can simply use::
+
+bash KaliFixer.sh
+
+      HACKING JOURNEY!!
