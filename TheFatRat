@@ -1,0 +1,29 @@
+TheFatRat is an exploiting tool which compiles a malware with famous payload, and then the compiled maware can be
+executed on Linux , Windows , Mac and Android. TheFatRat Provides An Easy way to create Backdoors
+and Payload which can bypass most anti-virus
+
+====INFORMATION====
+This tool is for educational purpose only, usage of TheFatRat for attacking targets without prior mutual consent is illegal.
+Developers assume no liability and are not responsible for any misuse or damage cause by this program.
+
+FOLLOW THE GIVEN STEPS SEQUENTIALLY TO INSTALL AND USE THE FatRat ON YOUR DEVICE ==>>
+
+git clone https://github.com/Screetsec/TheFatRat.git
+cd TheFatRat
+chmod +x setup.sh
+./setup.sh
+
+FOR UPDATE TheFatRat FOLLOW THE GIVEN STEPS ==>>
+
+cd TheFatRat
+./update
+chmod +x setup.sh
+./setup.sh
+
+TROUBLESHOOT ON TheFatRat ==>>
+
+cd TheFatRat
+chmod +x chk_tools 
+./chk_tools
+
+    BEST OF LUCK ENJOY YOUR DAY!!
